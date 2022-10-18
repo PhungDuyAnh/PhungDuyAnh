@@ -1,13 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Phung Duy Anh</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phungduyanh&label=Profile%20views&color=0e75b6&style=flat" alt="phungduyanh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phungduyanh" alt="phungduyanh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/phungduyanh0509" target="blank"><img src="https://img.shields.io/twitter/follow/phungduyanh0509?logo=twitter&style=for-the-badge" alt="phungduyanh0509" /></a> </p>
 
 - 🔭 I’m currently working on **Intra**
 
@@ -29,10 +23,6 @@
 
 - ⚡ Fun fact **Haha**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/anhdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anhdev" height="30" width="40" /></a>
@@ -50,9 +40,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/not yet"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="not yet" /></a><a href="https://ko-fi.com/not yet"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="not yet" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phungduyanh&show_icons=true&locale=en&layout=compact" alt="phungduyanh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phungduyanh&show_icons=true&locale=en" alt="phungduyanh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phungduyanh&" alt="phungduyanh" /></p>
